@@ -37,7 +37,7 @@ trace
 2
 A,0,2
 B,2,4
-[img](images/ex1)
+![img](images/ex1.jpg)
 
 ex:
 stats
@@ -49,20 +49,20 @@ B,2,6
 C,4,4
 D,6,5
 E,8,2
-[img](images/ex2)
+![img](images/ex2.jpg)
 
 #### or you can simply redirect the output of file to be an input to the program as follows:
 cat lab4-initial-testcases-v7/06b-input.txt | ./prog
-[img](images/ex3)
+![img](images/ex3.jpg)
 
 ex:
 cat lab4-initial-testcases-v7/10a-input.txt | ./prog
-[img](images/ex4-1)
-[img](images/ex4-2)
-[img](images/ex4-3)
+![img](images/ex4-1.jpg)
+![img](images/ex4-2.jpg)
+![img](images/ex4-3.jpg)
 
 ex:
 cat lab4-initial-testcases-v7/10b-input.txt | ./prog
-[img](images/ex5-1)
-[img](images/ex5-2)
-[img](images/ex5-3)
+![img](images/ex5-1.jpg)
+![img](images/ex5-2.jpg)
+![img](images/ex5-3.jpg)
